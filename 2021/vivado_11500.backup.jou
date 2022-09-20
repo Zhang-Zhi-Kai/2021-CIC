@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Jul 30 11:20:57 2022
+# Process ID: 11500
+# Current directory: C:/Users/zhang/Desktop/IC/2021/2021
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11296 C:\Users\zhang\Desktop\IC\2021\2021\2021.xpr
+# Log file: C:/Users/zhang/Desktop/IC/2021/2021/vivado.log
+# Journal file: C:/Users/zhang/Desktop/IC/2021/2021\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zhang/Desktop/IC/2021/2021/2021.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testfixture.tcl
+run 60 us
+run 60 us
+close_sim

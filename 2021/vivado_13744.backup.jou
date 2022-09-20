@@ -1,0 +1,146 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Jul 29 02:28:17 2022
+# Process ID: 13744
+# Current directory: C:/Users/zhang/Desktop/IC/2021/2021
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10484 C:\Users\zhang\Desktop\IC\2021\2021\2021.xpr
+# Log file: C:/Users/zhang/Desktop/IC/2021/2021/vivado.log
+# Journal file: C:/Users/zhang/Desktop/IC/2021/2021\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zhang/Desktop/IC/2021/2021/2021.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testfixture.tcl
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+relaunch_sim
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 1 us
+run 60 us
+run 60 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+relaunch_sim
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+relaunch_sim
+run 1 us
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us

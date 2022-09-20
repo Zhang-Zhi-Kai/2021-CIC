@@ -1,0 +1,112 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Jul 21 22:59:46 2022
+# Process ID: 7888
+# Current directory: C:/Users/zhang/Desktop/IC/2021/2021
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25228 C:\Users\zhang\Desktop\IC\2021\2021\2021.xpr
+# Log file: C:/Users/zhang/Desktop/IC/2021/2021/vivado.log
+# Journal file: C:/Users/zhang/Desktop/IC/2021/2021\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/zhang/Desktop/IC/2021/2021/2021.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testfixture.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+add_files -norecurse C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/DW_sqrt.v
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+launch_simulation
+source testfixture.tcl
+update_compile_order -fileset sources_1
+relaunch_sim
+update_compile_order -fileset sources_1
+relaunch_sim
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 50 us
+relaunch_sim
+run 50 us
+relaunch_sim
+relaunch_sim
+run 25 us
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 25 us
+relaunch_sim
+run 25 us
+relaunch_sim
+run 25 us
+relaunch_sim
+run 25 us
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 25 us
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+relaunch_sim
+run 25 us
+relaunch_sim
+relaunch_sim
+run 25 us
+relaunch_sim
+run 25 us
+run 50 us
+run 60 us
+relaunch_sim
+run 60 us
+relaunch_sim
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+close_sim
+launch_simulation
+source testfixture.tcl
+relaunch_sim
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim
+run 60 us
+relaunch_sim
+run 60 us
+relaunch_sim
+run 60 us
+relaunch_sim
+run 60 us
+run 60 us
+relaunch_sim

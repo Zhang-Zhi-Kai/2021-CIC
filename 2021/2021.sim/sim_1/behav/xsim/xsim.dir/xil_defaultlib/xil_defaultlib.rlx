@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/zhang/Desktop/IC/2021/2021/2021.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/DW_sqrt.v,1658831857,verilog,,C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/geofence.v,C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/DW_sqrt_function.inc,DW_sqrt,,uvm,,,,,,
+C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/DW_sqrt_function.inc,1658831854,verilog,,,,,,,,,,,,
+C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/geofence.v,1659113150,verilog,,,,geofence,,uvm,,,,,,
+C:/Users/zhang/Desktop/IC/2021/2021_grad_cell/tb.sv,1658383981,systemVerilog,,,,testfixture,,uvm,,,,,,
